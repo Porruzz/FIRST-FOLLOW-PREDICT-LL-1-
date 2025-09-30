@@ -1,0 +1,4 @@
+# Gramática de la Presentación 6
+A -> a B C
+B -> b bas | big C boss
+C -> ε | c

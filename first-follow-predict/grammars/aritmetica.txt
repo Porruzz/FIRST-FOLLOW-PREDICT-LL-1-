@@ -1,0 +1,4 @@
+# E → E + T | T ; T → T * F | F ; F → id | num | ( E )
+E -> E + T | T
+T -> T * F | F
+F -> id | num | ( E )
